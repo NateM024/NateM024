@@ -5,7 +5,7 @@
 ## Hi, I'm Nate 👋
 
 🤓 Computer Science Student at Elizabethtown College <br />
-💻 I love creating projects that solve problems <br />
+🔧 I love creating projects that solve problems <br />
 🔍 Coding Interests: Software Applications, AI, and Data <br />
 🔖 Personal Interests: Chess, Reading, Theology, Music <br />
 
