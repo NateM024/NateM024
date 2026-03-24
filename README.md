@@ -5,7 +5,6 @@
 ## Hi, I'm Nate 👋
 
 🤓 Student at Elizabethtown College <br />
-💻 Majoring in Computer Science w/ Concentration in AI & Data Science and Minor in Data Analytics <br />
 🔧 I love creating projects that solve problems! <br />
 🔍 Interests: Data Analytics, Data Science, Software Applications, and AI/ML <br />
 
